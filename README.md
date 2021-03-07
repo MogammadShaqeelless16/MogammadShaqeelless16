@@ -2,7 +2,6 @@
 
 [![HitCount](http://hits.dwyl.com/MogammadShaqeelless16/MogammadShaqeelless16.svg)](http://hits.dwyl.com/MogammadShaqeelless16/MogammadShaqeelless16)
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Cyber Security in IOT Devices
 - 🌱 I’m currently learning C# and Multi Media Software development
