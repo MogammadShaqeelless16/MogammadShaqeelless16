@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-[![HitCount](http://hits.dwyl.com/MogammadShaqeelless16/MogammadShaqeelless16.svg)](http://hits.dwyl.com/MogammadShaqeelless16/MogammadShaqeelless16)
+[![HitCount](http://hits.dwyl.com/MogammadShaqeelless16/MogammadShaqeelless16.svg)](https://shaqeelless.netlify.app/)
 
 🔭 I’m currently working on Cyber Security in IoT Devices
 
